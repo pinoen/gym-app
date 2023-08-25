@@ -9,7 +9,7 @@
 ## Overview
 - Gym web page.
 - It was built with React / Typescript using Vite.
-- You can try it out at [ - Gym app]()
+- You can try it out at [Netlify - Gym app](https://gym-pinoen.netlify.app/)
 
 ### Built With
 - Typescript
@@ -26,6 +26,7 @@
 - The form has validation for name, email and message inputs.
 - Fully responsive on any kind of screens. 
 - Use Framer Motion for smooth transitions.
+
 ![Homepage - Desktop](public/gym-home-desktop.png)
 ![Homepage](public/gym-home-mobile.png)
 
